@@ -18,7 +18,7 @@ chrono = { version = "0.4.31", features = ["serde"] }
 chrono-tz = "0.10"
 iana-time-zone = "0.1.58"
 clap = { version = "4.4.12", features = ["derive"] }
-reqwest = { version = "0.12", features = ["json"] }
+reqwest = { version = "0.13", features = ["json"] }
 sqlite-cache = "0.1.4"
 dirs-next = "2.0.0"
 rusqlite = {version="0.32.0", features=["bundled"]}
